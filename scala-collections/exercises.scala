@@ -1,7 +1,7 @@
 // 1.) Can you figure out what method you can use to find out if the list:
 // List(1,2,3,4,5) contains the number 3?
 
-// 2.) How can you add all the elements of the previous list?
+// 2.) How can you add or sum all the elements of the previous list?
 
 // 3.) Create an Array of all the odd numbers from 0 to 15
 
