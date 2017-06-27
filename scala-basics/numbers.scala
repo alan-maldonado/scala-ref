@@ -7,7 +7,7 @@ var my_int: Int = 10
 // Double (Floating Point)
 var my_double: Double = 10.0
 
-myInt / 3
+my_int / 3
 my_double / 3
 
 math.pow(2, 2)
