@@ -2,7 +2,7 @@
 
 var my_bool: Boolean = true
 
-my_bool = !myBool
+my_bool = !my_bool
 
 /*
   Comparision Operators
