@@ -1,3 +1,13 @@
+/*
+PCA is a statistical procedure that uses an orthogonal transformation to convert
+a set of observations of possibly correlated variables into a set of values of
+linearly uncorrelated variables called principal components.
+
+A PCA class trains a model to project vectors to a low-dimensional space using PCA.
+The example below shows how to project 5-dimensional
+feature vectors into 3-dimensional principal components.
+*/
+
 // Imports
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.ml.feature.PCA
